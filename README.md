@@ -1,3 +1,3 @@
 # Street-Light-Intensity-Mapping-and-Analysis
 
-[Street_light_intensity project poster (2).pdf](https://github.com/nikhilrajsv054/Street-Light-Intensity-Mapping-and-Analysis/files/12311984/Street_light_intensity.project.poster.2.pdf)
+![StreetLight](https://github.com/nikhilrajsv054/Street-Light-Intensity-Mapping-and-Analysis/assets/70802832/c0c7658a-5a3e-4577-875c-86d943cde205)
